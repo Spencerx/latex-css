@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased](https://github.com/vincentdoerig/latex-css/compare/v1.13.0...master)
 
+## [1.14.0](https://github.com/vincentdoerig/latex-css/compare/v1.13.0...v1.14.0) 2026-05-13
+
+### Added
+- Add support for the following languages:
+  - Sinhalese (#88)
+  - Georgian (#89)
+  - Korean (#90)
+
+### Changed
+- Update Latin Modern font to version 2.007 and Libertinus font to version 7.051 (#91)
+
 ## [1.13.0](https://github.com/vincentdoerig/latex-css/compare/v1.12.0...v1.13.0) 2025-05-15
 
 ### Added
